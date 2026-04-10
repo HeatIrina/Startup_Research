@@ -20,9 +20,9 @@
 3. Выявление бизнес-инсайтов.
 4. Визуализация и отчётность.
 
-**Инструменты**
-`Jupyter Notebook`, `Python`.
-**Библиотеки**
+**Инструменты**  
+`Jupyter Notebook`, `Python`.  
+**Библиотеки**  
 `pandas`, `numpy`, `matplotlib.pyplot`, `seaborn`, `scipy`, `matplotlib.ticker`, `matplotlib-venn -q`.
 
 ## Вывод
