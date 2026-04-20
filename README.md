@@ -21,9 +21,7 @@
 4. Визуализация и отчётность.
 
 **Инструменты**  
-`Jupyter Notebook`, `Python`.  
-**Библиотеки**  
-`pandas`, `numpy`, `matplotlib`, `pyplot`, `seaborn`, `scipy`, `ticker`, `venn -q`.
+`Jupyter Notebook`, `Python`, `pandas`, `numpy`, `matplotlib`, `pyplot`, `seaborn`, `scipy`, `ticker`, `venn -q`.
 
 ## Вывод
 Финансирование стартапов распределено крайне неравномерно: большинство привлекают скромные суммы, тогда как единицы компаний обеспечивают сверхприбыль.  
